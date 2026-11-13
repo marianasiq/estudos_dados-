@@ -1,0 +1,19 @@
+id_venda,data,produto,categoria,preco,quantidade,cidade,pagamento,mes,dia_semana,receita
+1,2026-01-10,Camiseta,Roupa,50.0,3,Teresina,Pix,1,Saturday,150.0
+2,2026-01-10,Tênis,Calçado,250.0,1,Recife,Cartão,1,Saturday,250.0
+3,2026-02-10,Boné,Acessório,40.0,2,Fortaleza,Pix,2,Tuesday,80.0
+4,2026-10-02,Calça,Roupa,120.0,2,São Paulo,Cartão,10,Friday,240.0
+5,2026-03-10,Mochila,Acessório,150.0,1,Não Informada,Dinheiro,3,Tuesday,150.0
+6,2026-04-10,Camiseta,Roupa,50.0,5,Recife,Pix,4,Friday,250.0
+8,2026-06-10,Jaqueta,Roupa,300.0,1,São Paulo,Cartão,6,Wednesday,300.0
+9,2026-07-10,Boné,Acessório,40.0,4,Teresina,Pix,7,Friday,160.0
+10,2026-08-10,Tênis,Calçado,250.0,2,São Paulo,Pix,8,Monday,500.0
+11,2026-10-09,Calça,Roupa,120.0,1,Recife,Dinheiro,10,Friday,120.0
+13,2026-11-10,Camiseta,Roupa,50.0,2,Teresina,Não Informado,11,Tuesday,100.0
+14,2026-12-10,Sandália,Calçado,90.0,3,Recife,Pix,12,Thursday,270.0
+15,2026-10-13,Mochila,Acessório,150.0,2,Fortaleza,Cartão,10,Tuesday,300.0
+16,2026-10-14,Jaqueta,Roupa,300.0,2,Teresina,Pix,10,Wednesday,600.0
+17,2026-10-15,Tênis,Calçado,250.0,1,Fortaleza,Dinheiro,10,Thursday,250.0
+18,2026-10-16,Meia,Acessório,15.0,6,São Paulo,Pix,10,Friday,90.0
+19,2026-10-17,Calça,Roupa,120.0,3,Teresina,Cartão,10,Saturday,360.0
+20,2026-10-18,Boné,Acessório,40.0,1,Recife,Dinheiro,10,Sunday,40.0

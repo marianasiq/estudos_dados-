@@ -1,0 +1,22 @@
+id_venda,data,produto,categoria,preco,quantidade,cidade,pagamento
+1,2026-10-01,Camiseta,Roupa,50,3,Teresina,Pix
+2,2026-10-01,tênis ,Calçado,250,1,Recife,Cartão
+3,2026-10-02,Boné,Acessório,40,2,Fortaleza,pix
+4,02/10/2026,Calça,Roupa,120,2,São Paulo,Cartão
+5,2026-10-03,Mochila,Acessório,150,1,,Dinheiro
+6,2026-10-04,Camiseta,Roupa,50,5,Recife,Pix
+7,2026-10-05,Sandália,Calçado,,2,Fortaleza,Cartão
+8,2026-10-06,JAQUETA,Roupa,300,1,São Paulo,Cartão
+9,2026-10-07,Boné,Acessório,40,4,Teresina,Pix
+9,2026-10-07,Boné,Acessório,40,4,Teresina,Pix
+10,2026-10-08,Tênis,Calçado,250,2,São Paulo,Pix
+11,09/10/2026,Calça,Roupa,120,1,Recife,Dinheiro
+12,2026-10-10,Meia,Acessório,15,500,Fortaleza,Pix
+13,2026-10-11,Camiseta,Roupa,50,2,Teresina,
+14,2026-10-12,Sandália ,Calçado,90,3,Recife,Pix
+15,2026-10-13,Mochila,Acessório,150,2,Fortaleza,Cartão
+16,2026-10-14,Jaqueta,Roupa,300,,Teresina,Pix
+17,2026-10-15,Tênis,Calçado,250,1,Fortaleza,Dinheiro
+18,2026-10-16,Meia,Acessório,15,6,são paulo,Pix
+19,2026-10-17,Calça,Roupa,120,3,Teresina,Cartão
+20,2026-10-18,Boné,Acessório,40,1,Recife,Dinheiro
