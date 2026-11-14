@@ -1,0 +1,43 @@
+id_transacao,data,descricao,categoria,valor,natureza
+1,2026-10-02,Salário,Salário,2850.00,Entrada
+2,2026-10-03,Mercado,Alimentação,24.83,Saída
+3,2026-10-04,Aplicativo de transporte,Transporte,75.16,Saída
+4,05/10/2026,Consulta,Saúde,157.75,Saída
+5,2026-10-06,Ônibus,Transporte,34.17,Saída
+5,2026-10-06,Ônibus,Transporte,34.17,Saída
+6,2026-10-06,Conta de luz,Moradia,96.02,Saída
+7,2026-10-06,Delivery,Alimentação,,Saída
+8,2026-10-07,Pix recebido,Outros,186.44,Entrada
+9,2026-10-10,Cinema,lazer,189.87,Saída
+10,2026-10-13,Aluguel,Moradia,761.88,Saída
+11,2026-10-15,Mercado,,107.92,Saída
+12,2026-10-15,Delivery,Alimentação,32.79,Saída
+13,15/10/2026,Conta de luz,Moradia,177.54,Saída
+14,2026-10-15,Mercado,Alimentação,50.23,Saída
+15,2026-10-15,Pix recebido,Outros,373.74,Entrada
+16,2026-10-16,Delivery,Alimentação,18500.00,Saída
+17,2026-10-17,Material,Educação,244.71,Saída
+18,2026-10-17,Show,Lazer,,Saída
+19,2026-10-18,Material,Educação,208.23,Saída
+20,2026-10-18,Conta de luz,MORADIA ,109.85,Saída
+21,2026-10-19,Salário,Salário,-2850.00,Entrada
+22,2026-10-20,Farmácia,Saúde,69.03,Saída
+23,2026-10-20,Curso online,Educação,64.82,Saída
+23,2026-10-20,Curso online,Educação,64.82,Saída
+24,2026-10-20,Consulta,Saúde,81.53,Saída
+25,2026-10-20,Cinema,Lazer,127.38,Saída
+26,21/10/2026,Ônibus,Transporte,94.19,Saída
+27,2026-10-21,Pix recebido,Outros,190.92,Entrada
+28,2026-10-21,Farmácia, Saúde,144.51,Saída
+29,2026-10-21,Aplicativo de transporte,Transporte,38.22,Saída
+30,2026-10-23,Streaming,Lazer,,Saída
+31,2026-10-24,Restaurante,Alimentação,45.91,Saída
+32,25/10/2026,Show,Lazer,158.47,Saída
+33,2026-10-26,Restaurante,Alimentação,50.19,Saída
+34,2026-10-26,Aluguel,,1102.22,Saída
+35,2026-10-26,Conta de luz,Moradia,595.88,Saída
+36,2026-10-28,Pix recebido,Outros,66.74,Entrada
+37,2026-10-28,Ônibus,Transporte,79.30,Saída
+38,2026-10-28,Padaria,Alimentação,76.33,Saída
+39,2026-10-29,Farmácia,Saúde,308.15,Saída
+40,2026-10-30,Farmácia,Saúde,281.29,Saída

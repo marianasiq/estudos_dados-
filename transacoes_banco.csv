@@ -1,0 +1,309 @@
+id_transacao,id_cliente,data,tipo,categoria,valor,natureza,status
+1,27,2026-07-01,Cartão de Débito,Transporte,,Saída,Concluída
+2,30,2026-07-01,Cartão de Crédito,Alimentação,84.22,Saída,Pendente
+3,1,2026-07-01,Cartão de Débito,Alimentação,55.35,Saída,Concluída
+4,25,2026-07-02,Cartão de Crédito,Transporte,57.80,Saída,Concluída
+5,12,2026-07-02,Boleto,Moradia,,Saída,Concluída
+6,3,2026-07-02,Cartão de Crédito,Alimentação,160.16,Saída,Concluída
+7,18,2026-07-03,BOLETO ,Educação,418.95,Saída,Concluída
+8,18,2026-07-03,Cartão de Crédito,Saúde,202.06,Saída,Concluída
+9,6,2026-07-03,Cartão de Crédito,Alimentação,97.94,Saída,concluída
+10,3,2026-07-03,cartão de débito,Saúde,432.86,Saída,Concluída
+11,29,04/07/2026,Cartão de Débito,Alimentação,94.16,Saída,Pendente
+12,15,2026-07-04,Cartão de Crédito,Saúde,249.02,Saída,Concluída
+13,3,05/07/2026,Cartão de Crédito,Alimentação,89.19,Saída,Concluída
+14,23,2026-07-05,saque,Transporte,44.74,Saída,Concluída
+15,25,2026-07-06,Pix,,450.77,Entrada,Concluída
+16,13,2026-07-06,Cartão de Crédito,Transporte,123.31,Saída,Pendente
+17,16,2026-07-06,Pix,Alimentação,87.37,Saída,Concluída
+18,24,2026-07-06,Pix,Educação,393.32,Saída,Concluída
+19,27,2026-07-07,Pix,Transporte,111.08,Saída,Concluída
+20,10,2026-07-07,Cartão de Débito,Alimentação,62.02,Saída,Concluída
+21,20,2026-07-08,Pix,Alimentação,178.92,Saída,Concluída
+22,29,2026-07-10,CARTÃO DE DÉBITO ,Alimentação,63.85,Saída,Concluída
+23,9,11/07/2026,Pix,Alimentação,59.80,Saída,Concluída
+24,24,2026-07-11,Pix,Saúde,303.12,Saída,Concluída
+25,9,2026-07-11,Boleto,Moradia,1129.96,Saída,Concluída
+26,15,2026-07-12,CARTÃO DE DÉBITO ,Saúde,95.11,Saída,Concluída
+27,10,2026-07-12,Boleto,Moradia,1504.54,Saída,Concluída
+28,29,12/07/2026,Saque,Alimentação,207.11,Saída,Falha
+29,20,2026-07-12,Pix,Outros,315.09,Entrada,Concluída
+30,28,2026-07-13,PIX ,Alimentação,210.50,Saída,Concluída
+31,26,2026-07-13,Cartão de Débito,Alimentação,50.11,Saída,Concluída
+32,27,13/07/2026,Saque,Alimentação,31.51,Saída,Concluída
+33,11,2026-07-13,Pix,Lazer,288.69,Saída,Concluída
+34,13,2026-07-13,Cartão de Crédito,Transporte,28.81,Saída,Concluída
+35,11,2026-07-14,Cartão de Crédito,Transporte,,Saída,Concluída
+36,13,2026-07-14,CARTÃO DE DÉBITO ,Lazer,336.61,Saída,Concluída
+37,20,14/07/2026,Boleto,Moradia,478.39,Saída,Concluída
+38,25,2026-07-15,Cartão de Crédito,Alimentação,154.20,Saída,Concluída
+39,1,2026-07-15,Pix,Alimentação,28.12,Saída,Concluída
+40,13,16/07/2026,Cartão de Crédito,Alimentação,111.53,Saída,Concluída
+41,18,2026-07-16,Pix,Educação,489.20,Saída,Concluída
+42,1,2026-07-17,Pix,Alimentação,,Saída,Concluída
+43,23,2026-07-18,Pix,Saúde,,Saída,Concluída
+44,24,2026-07-19,TED,Salário,3367.97,Entrada,Concluída
+45,18,2026-07-19,Cartão de Crédito,Lazer,116.84,Saída,Concluída
+46,21,2026-07-20,TED,,5576.67,Entrada,Pendente
+47,16,2026-07-20,Cartão de Crédito,Lazer,288.54,Saída,Concluída
+48,29,2026-07-20,Pix,Alimentação,36.56,Saída,Concluída
+49,25,2026-07-20,TED,Salário,4030.25,Entrada,Concluída
+50,9,2026-07-20,Pix,Lazer,40.69,Saída,Concluída
+51,22,2026-07-21,Cartão de Crédito,Lazer,110.03,Saída,CONCLUÍDA 
+52,14,21/07/2026,TED,Moradia,172.20,Saída,Concluída
+53,20,2026-07-21,Cartão de Débito,Lazer,312.19,Saída,Concluída
+54,17,2026-07-22,Cartão de Débito,Alimentação,180.20,Saída,Concluída
+55,18,2026-07-22,Pix,Outros,183.51,Entrada,Concluída
+56,20,2026-07-22,Pix,Transporte,17.73,Saída,Concluída
+57,26,2026-07-22,Cartão de Crédito,Alimentação,143.33,Saída,Concluída
+58,3,2026-07-23,boleto,Moradia,1460.02,Saída,Concluída
+59,21,2026-07-24,Cartão de Crédito,Saúde,161.69,Saída,Concluída
+60,3,2026-07-24,Pix,Transporte,110.49,Saída,Concluída
+61,21,2026-07-25,cartão de débito,Saúde,49.75,Saída,Concluída
+62,17,25/07/2026,Pix,Outros,769.90,Entrada,Concluída
+63,30,2026-07-25,Depósito,Salário,2480.00,Entrada,Concluída
+64,16,2026-07-25,Cartão de Crédito,Alimentação,97.86,Saída,Concluída
+65,9,2026-07-26,Cartão de Débito,Saúde,244.73,Saída,Concluída
+66,25,2026-07-26,pix,Lazer,182.61,Saída,Falha
+67,14,2026-07-27,Cartão de Débito,Transporte,16.52,Saída,Concluída
+68,20,2026-07-27,Cartão de Crédito,Saúde,159.97,Saída,Concluída
+69,13,2026-07-28,Depósito,Salário,3949.61,Entrada,Concluída
+70,20,2026-07-28,TED,Moradia,559.81,Saída,Concluída
+71,28,2026-07-29,Cartão de Débito,Saúde,348.71,Saída,Concluída
+72,23,2026-07-29,Cartão de Crédito,Saúde,400.37,Saída,Pendente
+73,21,2026-07-29,Pix,Alimentação,109.33,Saída,Concluída
+74,18,2026-07-30,Cartão de Crédito,Lazer,304.20,Saída,Concluída
+75,13,30/07/2026,Cartão de Crédito,Saúde,181.84,Saída,Concluída
+76,17,2026-07-31,Cartão de Crédito,Lazer,158.23,Saída,Concluída
+77,7,2026-07-31,Depósito,Salário,4105.49,Entrada,Concluída
+78,5,31/07/2026,TED,Salário,3991.43,Entrada,Concluída
+79,10,2026-08-01,Boleto,Moradia,635.55,Saída,Concluída
+80,22,02/08/2026,Cartão de Débito,Alimentação,85.92,Saída,Concluída
+81,15,2026-08-02,Cartão de Débito,Saúde,227.19,Saída,Concluída
+82,18,2026-08-02,Pix,Saúde,-141.82,Saída,Concluída
+83,5,2026-08-02,Cartão de Crédito,Lazer,108.75,Saída,Concluída
+84,25,2026-08-03,Pix,Outros,,Entrada,Concluída
+85,10,2026-08-03,Cartão de Débito,Alimentação,120.88,Saída,Concluída
+86,24,2026-08-04,Cartão de Crédito,Transporte,29.41,Saída,Concluída
+87,17,2026-08-05,Pix,Outros,678.53,Entrada,Concluída
+88,7,2026-08-05,cartão de crédito,Alimentação,147.50,Saída,Concluída
+89,25,2026-08-05,Cartão de Débito,Transporte,147.72,Saída,Falha
+90,10,2026-08-06,Saque,Alimentação,201.62,Saída,Concluída
+91,9,2026-08-06,Pix,Alimentação,90.15,Saída,Pendente
+92,14,2026-08-07,Cartão de Débito,Saúde,117.33,Saída,Pendente
+93,6,2026-08-07,TED,Salário,3610.81,Entrada,Concluída
+94,19,2026-08-07,Pix,Outros,120000.00,Entrada,Concluída
+95,27,2026-08-08,Cartão de Débito,Alimentação,212.44,Saída,Concluída
+96,2,2026-08-08,Pix,Outros,595.90,Entrada,Concluída
+97,4,2026-08-09,Cartão de Crédito,Alimentação,133.18,Saída,Concluída
+98,5,2026-08-09,Cartão de Débito,Transporte,10.88,Saída,Pendente
+99,9,2026-08-10,Cartão de Débito,Lazer,211.51,Saída,Concluída
+100,8,2026-08-10,Cartão de Crédito,Alimentação,70.39,Saída,Concluída
+101,4,2026-08-10,Cartão de Crédito,,15.75,Saída,Concluída
+102,1,2026-08-11,Cartão de Crédito,,189.93,Saída,Concluída
+103,16,2026-08-11,Cartão de Débito,Alimentação,88.82,Saída,Concluída
+104,10,2026-08-12,Pix,Saúde,154.72,Saída,Concluída
+105,25,12/08/2026,Cartão de Crédito,Alimentação,54.22,Saída,Concluída
+106,23,2026-08-12,Cartão de Débito,Alimentação,64.61,Saída,Concluída
+107,7,2026-08-12,Pix,Alimentação,115.60,Saída,Concluída
+108,11,2026-08-13,Cartão de Crédito,Alimentação,113.34,Saída,Concluída
+109,30,2026-08-13,Cartão de Crédito,Saúde,222.44,Saída,Concluída
+110,22,2026-08-13,Depósito,Salário,3966.37,Entrada,Concluída
+111,11,2026-08-13,Cartão de Débito,Alimentação,26.59,Saída,Pendente
+112,28,2026-08-13,Cartão de Crédito,Alimentação,89.72,Saída,Concluída
+113,5,2026-08-15,Cartão de Crédito,Alimentação,134.53,Saída,Pendente
+114,18,2026-08-15,Cartão de Crédito,Saúde,120.95,Saída,Concluída
+115,5,2026-08-15,Boleto,Educação,684.72,Saída,Concluída
+116,15,2026-08-15,Cartão de Crédito,Transporte,92.21,Saída,Concluída
+117,8,2026-08-15,TED,Salário,3980.91,Entrada,concluída
+118,27,2026-08-15,Pix,Outros,151.93,Entrada,Concluída
+119,15,2026-08-16,Cartão de Débito,,24.86,Saída,Concluída
+120,20,2026-08-17,TED,Salário,3730.78,Entrada,Concluída
+121,10,2026-08-19,Pix,Alimentação,69.01,Saída,Concluída
+122,18,2026-08-19,Depósito,Salário,-3873.33,Entrada,Concluída
+123,9,2026-08-19,TED,Salário,,Entrada,Concluída
+124,17,2026-08-19,Cartão de Débito,Alimentação,99999.00,Saída,Concluída
+125,6,2026-08-21,TED,Moradia,1282.94,Saída,Concluída
+126,29,2026-08-22,Cartão de Crédito,Saúde,352.69,Saída,Concluída
+127,13,2026-08-22,Cartão de Débito,Lazer,287.90,Saída,Concluída
+128,9,2026-08-23,Boleto,Educação,664.31,Saída,Concluída
+129,9,2026-08-23,Pix,Outros,56.22,Entrada,Concluída
+130,30,2026-08-24,Cartão de Crédito,Lazer,89.31,Saída,CONCLUÍDA 
+131,7,2026-08-25,Cartão de Crédito,Lazer,30.07,Saída,Falha
+132,7,2026-08-25,Cartão de Débito,Lazer,179.89,Saída,Concluída
+133,7,2026-08-26,Cartão de Débito,Lazer,177.18,Saída,Concluída
+134,6,2026-08-26,Cartão de Crédito,Transporte,51.87,Saída,Concluída
+135,13,2026-08-26,Cartão de Débito,,125.87,Saída,Concluída
+136,21,2026-08-26,Cartão de Débito,Lazer,150.06,Saída,Concluída
+137,19,2026-08-27,Depósito,Salário,4667.63,Entrada,Concluída
+138,2,2026-08-27,Depósito,Salário,1970.10,Entrada,Concluída
+139,23,2026-08-27,Boleto,Moradia,1625.96,Saída,Pendente
+140,18,2026-08-28,Cartão de Débito,Lazer,211.59,Saída,Concluída
+141,29,2026-08-28,Cartão de Débito,Alimentação,115.08,Saída,Concluída
+142,6,29/08/2026,Cartão de Débito,Alimentação,106.14,Saída,Concluída
+143,27,2026-08-29,Pix,Educação,657.75,Saída,Pendente
+144,14,2026-08-29,Depósito,Salário,3876.42,Entrada,Concluída
+145,2,2026-08-29,TED,Moradia,,Saída,Concluída
+146,13,2026-08-29,Pix,Outros,565.15,Entrada,Concluída
+147,4,2026-08-29,Cartão de Crédito,Alimentação,97.26,Saída,Concluída
+148,30,2026-08-30,TED,Salário,2368.41,Entrada,Concluída
+149,3,2026-08-30,Cartão de Débito,Lazer,64.65,Saída,Falha
+150,13,2026-08-30,Cartão de Crédito,Alimentação,191.73,Saída,Concluída
+151,26,31/08/2026,Cartão de Crédito,Lazer,86.84,Saída,Concluída
+152,22,2026-09-01,PIX ,Outros,692.87,Entrada,Concluída
+153,30,2026-09-02,Cartão de Crédito,Saúde,430.15,Saída,Concluída
+154,7,2026-09-02,Pix,Transporte,83.19,Saída,Concluída
+155,18,02/09/2026,Boleto,Moradia,1231.18,Saída,Concluída
+156,10,2026-09-03,Cartão de Crédito,Alimentação,47.82,Saída,Concluída
+157,14,2026-09-03,Pix,Transporte,81.84,Saída,Concluída
+158,19,2026-09-03,Cartão de Crédito,Educação,111.06,Saída,Concluída
+159,28,04/09/2026,Cartão de Crédito,Alimentação,200.74,Saída,Falha
+160,14,2026-09-04,Cartão de Crédito,Lazer,50.20,Saída,Concluída
+161,8,2026-09-04,Depósito,Salário,2033.99,Entrada,Concluída
+162,7,2026-09-04,TED,Salário,2345.17,Entrada,Concluída
+163,15,2026-09-04,Cartão de Débito,Lazer,218.53,Saída,Concluída
+164,26,2026-09-04,Pix,Outros,128.38,Entrada,Concluída
+165,7,2026-09-05,Pix,Outros,363.88,Entrada,Concluída
+166,7,2026-09-06,Pix,Outros,634.76,Entrada,Concluída
+167,5,2026-09-06,TED,Moradia,1423.32,Saída,Concluída
+168,16,2026-09-06,Cartão de Débito,Transporte,136.11,Saída,Concluída
+169,6,2026-09-07,Pix,Saúde,105.44,Saída,Concluída
+170,20,2026-09-07,Pix,Saúde,93.84,Saída,Concluída
+171,13,2026-09-07,Cartão de Débito,Saúde,393.57,Saída,Concluída
+172,15,2026-09-07,Saque,Transporte,49.05,Saída,Concluída
+173,17,2026-09-08,Pix,Alimentação,86.77,Saída,Concluída
+174,1,2026-09-08,Cartão de Crédito,Lazer,103.72,Saída,Concluída
+175,2,09/09/2026,Cartão de Crédito,Saúde,374.34,Saída,Concluída
+176,24,09/09/2026,Depósito,Salário,6445.48,Entrada,Concluída
+177,26,09/09/2026,TED,Salário,5341.86,Entrada,Concluída
+178,5,2026-09-09,TED,Salário,5578.73,Entrada,Concluída
+179,22,2026-09-10,Cartão de Crédito,Lazer,124.50,Saída,Concluída
+180,23,2026-09-10,Pix,Alimentação,216.43,Saída,Falha
+181,12,2026-09-10,Pix,Lazer,76.37,Saída,Concluída
+182,28,2026-09-10,Pix,Outros,122.36,Entrada,Concluída
+183,28,2026-09-11,Boleto,Moradia,1502.25,Saída,Concluída
+184,17,11/09/2026,TED,Salário,3715.75,Entrada,Concluída
+185,22,2026-09-14,depósito,Salário,2562.39,Entrada,Concluída
+186,13,14/09/2026,Cartão de Débito,Alimentação,167.32,Saída,Concluída
+187,15,2026-09-15,Cartão de Crédito,Transporte,132.73,Saída,concluída
+188,11,2026-09-15,Cartão de Débito,Saúde,117.22,Saída,Concluída
+189,20,2026-09-15,Cartão de Débito,Alimentação,216.95,Saída,Concluída
+190,21,2026-09-16,Cartão de Crédito,Saúde,45.96,Saída,Concluída
+191,7,16/09/2026,Depósito,Salário,3979.90,Entrada,Concluída
+192,10,16/09/2026,Pix,Outros,168.11,Entrada,Concluída
+193,24,2026-09-16,CARTÃO DE CRÉDITO ,Alimentação,141.89,Saída,Concluída
+194,11,2026-09-16,Cartão de Débito,Lazer,326.72,Saída,Concluída
+195,28,2026-09-17,Boleto,,1365.95,Saída,Concluída
+196,4,2026-09-18,Depósito,Salário,1975.40,Entrada,Concluída
+197,16,2026-09-18,pix,Lazer,119.21,Saída,Concluída
+198,24,2026-09-19,Cartão de Crédito,Transporte,94.14,Saída,Concluída
+199,1,2026-09-19,Pix,Transporte,21.67,Saída,Concluída
+200,27,2026-09-19,cartão de débito,Alimentação,117.28,Saída,Concluída
+201,2,2026-09-19,Cartão de Débito,Alimentação,83.91,Saída,Concluída
+202,12,2026-09-19,Saque,Alimentação,128.55,Saída,Concluída
+203,21,2026-09-20,Pix,Alimentação,73.92,Saída,Concluída
+204,17,2026-09-20,CARTÃO DE DÉBITO ,Alimentação,125.15,Saída,Concluída
+205,16,21/09/2026,Cartão de Crédito,Educação,579.76,Saída,Concluída
+206,16,2026-09-21,Cartão de Débito,Alimentação,180.83,Saída,Concluída
+207,21,2026-09-21,Pix,Alimentação,18.88,Saída,Concluída
+208,16,2026-09-21,Pix,Outros,-435.00,Entrada,Concluída
+209,10,2026-09-22,Cartão de Crédito,Alimentação,40.89,Saída,Concluída
+210,8,23/09/2026,Pix,Lazer,199.17,Saída,Concluída
+211,11,2026-09-23,Cartão de Débito,Transporte,-94.94,Saída,Concluída
+212,8,24/09/2026,Boleto,Moradia,1392.46,Saída,Concluída
+213,23,2026-09-25,cartão de débito,Alimentação,22.00,Saída,Concluída
+214,27,2026-09-25,Pix,Outros,689.74,Entrada,Concluída
+215,18,2026-09-26,cartão de débito,Transporte,119.70,Saída,Concluída
+216,27,2026-09-26,Cartão de Crédito,Transporte,57.01,Saída,Falha
+217,19,2026-09-26,Boleto,Moradia,167.55,Saída,Pendente
+218,26,2026-09-26,Cartão de Débito,Alimentação,127.77,Saída,Concluída
+219,22,2026-09-26,Cartão de Débito,Saúde,85000.00,Saída,Concluída
+220,1,26/09/2026,Boleto,Moradia,1625.59,Saída,Concluída
+221,23,2026-09-27,TED,Salário,3928.73,Entrada,Pendente
+222,2,2026-09-27,Pix,Outros,608.55,Entrada,Concluída
+223,14,2026-09-27,Cartão de Crédito,Alimentação,85.16,Saída,Concluída
+224,28,2026-09-27,Pix,Outros,482.87,Entrada,Concluída
+225,9,2026-09-28,Cartão de Crédito,Alimentação,147.10,Saída,Concluída
+226,16,2026-09-28,TED,Salário,4952.92,Entrada,Concluída
+227,16,2026-09-28,TED ,Salário,3904.10,Entrada,Concluída
+228,12,2026-09-28,Pix,Lazer,303.42,Saída,Concluída
+229,9,2026-09-29,Pix,Alimentação,26.82,Saída,Concluída
+230,2,2026-09-29,Boleto,Moradia,535.20,Saída,Concluída
+231,24,30/09/2026,Pix,Alimentação,124.35,Saída,Concluída
+232,4,2026-09-30,Pix,Alimentação,67.98,Saída,Concluída
+233,5,2026-10-01,TED,Moradia,,Saída,Pendente
+234,30,2026-10-01,PIX ,Educação,378.59,Saída,Concluída
+235,5,2026-10-02,Cartão de Crédito,Alimentação,132.45,Saída,Concluída
+236,18,2026-10-02,Cartão de Crédito,Alimentação,120.92,Saída,CONCLUÍDA 
+237,29,2026-10-02,Cartão de Crédito,Lazer,201.47,Saída,Concluída
+238,14,2026-10-02,TED,Salário,4197.54,Entrada,Pendente
+239,1,03/10/2026,Cartão de Crédito,Lazer,154.95,Saída,Concluída
+240,18,2026-10-03,Pix,Alimentação,196.20,Saída,Concluída
+241,11,2026-10-04,Pix,Alimentação,143.71,Saída,Concluída
+242,4,04/10/2026,Cartão de Crédito,Educação,176.10,Saída,Concluída
+243,20,2026-10-04,Cartão de Débito,Alimentação,187.60,Saída,Concluída
+244,19,2026-10-05,Cartão de Crédito,Saúde,153.77,Saída,Concluída
+245,6,05/10/2026,TED,Moradia,310.07,Saída,Concluída
+246,9,2026-10-06,Pix,Educação,393.15,Saída,Concluída
+247,13,2026-10-06,Cartão de Crédito,Alimentação,151.26,Saída,Concluída
+248,11,2026-10-07,TED,Salário,3029.64,Entrada,CONCLUÍDA 
+249,4,2026-10-07,Cartão de Crédito,Alimentação,70.99,Saída,Concluída
+250,10,2026-10-08,Cartão de Crédito,Alimentação,61.34,Saída,Concluída
+251,27,2026-10-09,cartão de débito,Lazer,80.21,Saída,Concluída
+252,1,2026-10-09,Cartão de Crédito,Transporte,15.43,Saída,Concluída
+253,2,2026-10-10,Pix,Saúde,155.60,Saída,Concluída
+254,10,2026-10-10,Cartão de Débito,Alimentação,176.11,Saída,Concluída
+255,3,2026-10-10,TED,Salário,1972.93,Entrada,Concluída
+256,15,2026-10-10,Pix,Alimentação,100.00,Saída,Concluída
+257,22,2026-10-11,Cartão de Débito,Lazer,186.99,Saída,Concluída
+258,18,2026-10-11,cartão de crédito,Alimentação,85.76,Saída,Concluída
+259,20,2026-10-11,Cartão de Débito,Saúde,48.55,Saída,Concluída
+260,5,2026-10-11,Cartão de Crédito,Saúde,84.91,Saída,Concluída
+261,4,2026-10-12,Cartão de Crédito,Lazer,152.30,Saída,Concluída
+262,7,2026-10-12,Cartão de Crédito,Educação,531.93,Saída,Concluída
+263,26,2026-10-12,TED,Moradia,463.99,Saída,Concluída
+264,27,2026-10-12,Saque,Alimentação,109.21,Saída,Concluída
+265,27,2026-10-14,Cartão de Crédito,Alimentação,191.27,Saída,Concluída
+266,14,2026-10-14,Boleto,Moradia,270.23,Saída,Concluída
+267,4,2026-10-15,Cartão de Débito,Alimentação,69.04,Saída,concluída
+268,27,2026-10-15,Pix,Alimentação,150.63,Saída,Concluída
+269,24,2026-10-16,Pix,Transporte,100.09,Saída,Concluída
+270,15,16/10/2026,Cartão de Débito,Alimentação,190.17,Saída,Concluída
+271,13,2026-10-16,Pix,Outros,430.10,Entrada,Concluída
+272,14,2026-10-17,Pix,Saúde,216.83,Saída,Concluída
+273,14,2026-10-18,PIX ,Outros,142.70,Entrada,Concluída
+274,10,2026-10-18,Pix,Educação,118.06,Saída,Concluída
+275,20,2026-10-18,Pix,Lazer,24.90,Saída,Concluída
+276,30,2026-10-18,Cartão de Débito,Alimentação,94.74,Saída,Concluída
+277,14,20/10/2026,Cartão de Débito,Saúde,389.59,Saída,Concluída
+278,27,20/10/2026,Pix,Educação,349.85,Saída,Concluída
+279,20,2026-10-20,Boleto,Moradia,1255.42,Saída,Concluída
+280,21,2026-10-21,Pix,Alimentação,80.85,Saída,Concluída
+281,29,2026-10-21,Depósito,Salário,2724.23,Entrada,Concluída
+282,25,2026-10-21,Cartão de Crédito,Transporte,25.60,Saída,Concluída
+283,6,21/10/2026,Pix,Outros,388.44,Entrada,Concluída
+284,3,2026-10-22,Depósito,Salário,5718.86,Entrada,Concluída
+285,4,22/10/2026,Pix,Outros,426.54,Entrada,Concluída
+286,16,2026-10-22,Pix,Alimentação,170.24,Saída,Concluída
+287,5,2026-10-22,TED,Salário,3869.86,Entrada,Concluída
+288,29,2026-10-23,Cartão de Crédito,Lazer,338.59,Saída,Concluída
+289,22,2026-10-23,Cartão de Crédito,Alimentação,172.33,Saída,Concluída
+290,15,24/10/2026,Boleto,Moradia,717.52,Saída,Concluída
+291,29,25/10/2026,Cartão de Débito,Saúde,199.29,Saída,Concluída
+292,21,2026-10-25,Cartão de Crédito,Lazer,263.91,Saída,concluída
+293,2,26/10/2026,Pix,Lazer,108.52,Saída,Concluída
+294,9,2026-10-27,Cartão de Débito,Transporte,16.18,Saída,Concluída
+295,27,2026-10-28,Cartão de Crédito,Alimentação,53.65,Saída,Concluída
+296,11,2026-10-28,Depósito,Salário,3026.03,Entrada,Concluída
+297,1,2026-10-29,Cartão de Débito,Alimentação,82.19,Saída,Concluída
+298,26,2026-10-29,Cartão de Crédito,Alimentação,92.47,Saída,Concluída
+299,15,2026-10-30,Pix,Outros,470.15,Entrada,CONCLUÍDA 
+300,12,2026-10-31,CARTÃO DE DÉBITO ,Lazer,113.82,Saída,Concluída
+153,30,2026-09-02,Cartão de Crédito,Saúde,430.15,Saída,Concluída
+266,14,2026-10-14,Boleto,Moradia,270.23,Saída,Concluída
+91,9,2026-08-06,Pix,Alimentação,90.15,Saída,Pendente
+202,12,2026-09-19,Saque,Alimentação,128.55,Saída,Concluída
+162,7,2026-09-04,TED,Salário,2345.17,Entrada,Concluída
+144,14,2026-08-29,Depósito,Salário,3876.42,Entrada,Concluída
+221,23,2026-09-27,TED,Salário,3928.73,Entrada,Pendente
+25,9,2026-07-11,Boleto,Moradia,1129.96,Saída,Concluída
