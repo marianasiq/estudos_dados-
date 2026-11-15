@@ -1,0 +1,37 @@
+id_transacao,data,descricao,categoria,valor,natureza,mes
+1,2026-10-02,Salário,Salário,2850.0,Entrada,10
+2,2026-10-03,Mercado,Alimentação,24.83,Saída,10
+3,2026-10-04,Aplicativo de transporte,Transporte,75.16,Saída,10
+4,2026-10-05,Consulta,Saúde,157.75,Saída,10
+5,2026-10-06,Ônibus,Transporte,34.17,Saída,10
+6,2026-10-06,Conta de luz,Moradia,96.02,Saída,10
+8,2026-10-07,Pix recebido,Outros,186.44,Entrada,10
+9,2026-10-10,Cinema,Lazer,189.87,Saída,10
+10,2026-10-13,Aluguel,Moradia,761.88,Saída,10
+11,2026-10-15,Mercado,Não informada,107.92,Saída,10
+12,2026-10-15,Delivery,Alimentação,32.79,Saída,10
+13,2026-10-15,Conta de luz,Moradia,177.54,Saída,10
+14,2026-10-15,Mercado,Alimentação,50.23,Saída,10
+15,2026-10-15,Pix recebido,Outros,373.74,Entrada,10
+17,2026-10-17,Material,Educação,244.71,Saída,10
+19,2026-10-18,Material,Educação,208.23,Saída,10
+20,2026-10-18,Conta de luz,Moradia,109.85,Saída,10
+21,2026-10-19,Salário,Salário,2850.0,Entrada,10
+22,2026-10-20,Farmácia,Saúde,69.03,Saída,10
+23,2026-10-20,Curso online,Educação,64.82,Saída,10
+24,2026-10-20,Consulta,Saúde,81.53,Saída,10
+25,2026-10-20,Cinema,Lazer,127.38,Saída,10
+26,2026-10-21,Ônibus,Transporte,94.19,Saída,10
+27,2026-10-21,Pix recebido,Outros,190.92,Entrada,10
+28,2026-10-21,Farmácia,Saúde,144.51,Saída,10
+29,2026-10-21,Aplicativo de transporte,Transporte,38.22,Saída,10
+31,2026-10-24,Restaurante,Alimentação,45.91,Saída,10
+32,2026-10-25,Show,Lazer,158.47,Saída,10
+33,2026-10-26,Restaurante,Alimentação,50.19,Saída,10
+34,2026-10-26,Aluguel,Não informada,1102.22,Saída,10
+35,2026-10-26,Conta de luz,Moradia,595.88,Saída,10
+36,2026-10-28,Pix recebido,Outros,66.74,Entrada,10
+37,2026-10-28,Ônibus,Transporte,79.3,Saída,10
+38,2026-10-28,Padaria,Alimentação,76.33,Saída,10
+39,2026-10-29,Farmácia,Saúde,308.15,Saída,10
+40,2026-10-30,Farmácia,Saúde,281.29,Saída,10
